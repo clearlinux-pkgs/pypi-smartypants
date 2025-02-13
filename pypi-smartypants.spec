@@ -7,7 +7,7 @@
 #
 Name     : pypi-smartypants
 Version  : 2.0.1
-Release  : 13
+Release  : 14
 URL      : https://github.com/leohemsted/smartypants.py/archive/refs/tags/v2.0.1.tar.gz
 Source0  : https://github.com/leohemsted/smartypants.py/archive/refs/tags/v2.0.1.tar.gz
 Summary  : Python with the SmartyPants
